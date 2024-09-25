@@ -3,3 +3,4 @@
 ## toto je změna provedená na lokále
 
 Filip Skalický
+v rámci předmětu IS
