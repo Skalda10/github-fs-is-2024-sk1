@@ -11,7 +11,7 @@ class Program {
             Console.WriteLine("****************************");
             Console.WriteLine("***** Výpis řady čísel *****");
             Console.WriteLine("****************************");
-            Console.WriteLine("******* Filip Skalický ********");
+            Console.WriteLine("****** Filip Skalický ******");
             Console.WriteLine("****************************");
             Console.WriteLine();
 
