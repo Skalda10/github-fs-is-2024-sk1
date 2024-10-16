@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
-      "projectName": "program002a-soucet-cifer",
-      "projectPath": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/program002a-soucet-cifer/program002a-soucet-cifer.csproj",
+      "projectUniqueName": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 002 - program - součet cifer/WebApplication1/WebApplication1.csproj",
+      "projectName": "WebApplication1",
+      "projectPath": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 002 - program - součet cifer/WebApplication1/WebApplication1.csproj",
       "packagesPath": "/Users/filipskalicky/.nuget/packages/",
-      "outputPath": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/program002a-soucet-cifer/obj/",
+      "outputPath": "/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 002 - program - součet cifer/WebApplication1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/filipskalicky/.nuget/NuGet/NuGet.Config"
@@ -60,6 +60,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
