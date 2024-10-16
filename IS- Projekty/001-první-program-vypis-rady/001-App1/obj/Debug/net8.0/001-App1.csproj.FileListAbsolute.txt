@@ -1,0 +1,15 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/bin/Debug/net8.0/001-App1
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/bin/Debug/net8.0/001-App1.deps.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/bin/Debug/net8.0/001-App1.runtimeconfig.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/bin/Debug/net8.0/001-App1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/bin/Debug/net8.0/001-App1.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/refint/001-App1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/001-App1.genruntimeconfig.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/001-první-program-vypis-rady/001-App1/obj/Debug/net8.0/ref/001-App1.dll
