@@ -1,0 +1,11 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 003 - vykreslování obrazců/Trojúhelníkk/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
