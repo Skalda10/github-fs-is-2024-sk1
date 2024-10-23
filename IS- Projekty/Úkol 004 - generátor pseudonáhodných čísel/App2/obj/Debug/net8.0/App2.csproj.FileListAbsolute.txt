@@ -1,0 +1,11 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/bin/Debug/net8.0/App2
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/bin/Debug/net8.0/App2.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/bin/Debug/net8.0/App2.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/refint/App2.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/Úkol 004 - generátor pseudonáhodných čísel/App2/obj/Debug/net8.0/App2.pdb
