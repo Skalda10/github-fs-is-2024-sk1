@@ -1,0 +1,15 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/bin/Debug/net8.0/Max,Min
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/bin/Debug/net8.0/Max,Min.deps.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/bin/Debug/net8.0/Max,Min.runtimeconfig.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/bin/Debug/net8.0/Max,Min.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/bin/Debug/net8.0/Max,Min.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/refint/Max,Min.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/Max,Min.genruntimeconfig.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005-Max,min/Max,Min/obj/Debug/net8.0/ref/Max,Min.dll

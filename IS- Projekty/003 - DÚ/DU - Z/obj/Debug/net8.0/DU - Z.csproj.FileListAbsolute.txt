@@ -1,0 +1,11 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/bin/Debug/net8.0/DU - Z
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/bin/Debug/net8.0/DU - Z.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/bin/Debug/net8.0/DU - Z.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/refint/DU - Z.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU - Z/obj/Debug/net8.0/DU - Z.pdb

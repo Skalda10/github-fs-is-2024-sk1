@@ -1,0 +1,11 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/bin/Debug/net8.0/Hodiny
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/bin/Debug/net8.0/Hodiny.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/bin/Debug/net8.0/Hodiny.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/refint/Hodiny.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/005 - DÚ/DU Hodiny/Hodiny/obj/Debug/net8.0/Hodiny.pdb
