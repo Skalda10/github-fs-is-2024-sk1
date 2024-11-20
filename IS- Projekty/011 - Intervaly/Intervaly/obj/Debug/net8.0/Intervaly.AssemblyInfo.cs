@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Konvergentní řady")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Intervaly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0daa968652406f3127a62745e0ea17630d67386b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Konvergentní řady")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Konvergentní řady")]
+[assembly: System.Reflection.AssemblyProductAttribute("Intervaly")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Intervaly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
