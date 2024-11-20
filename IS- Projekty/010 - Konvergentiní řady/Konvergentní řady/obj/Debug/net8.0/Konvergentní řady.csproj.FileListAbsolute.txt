@@ -1,0 +1,11 @@
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.AssemblyInfoInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.AssemblyInfo.cs
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.csproj.CoreCompileInputs.cache
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.sourcelink.json
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/bin/Debug/net8.0/Konvergentní řady
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/bin/Debug/net8.0/Konvergentní řady.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/bin/Debug/net8.0/Konvergentní řady.pdb
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/refint/Konvergentní řady.dll
+/Users/filipskalicky/Documents/IS-2024/github-fs-is-2024-sk1/IS- Projekty/010 - Konvergentiní řady/Konvergentní řady/obj/Debug/net8.0/Konvergentní řady.pdb
